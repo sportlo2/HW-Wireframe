@@ -10,7 +10,7 @@
  header {
      background: #ebebeb;
      text-align: center;
-        width: 100%;
+        width: 80%;
         border: 1px solid #ebebeb;
         padding: 20px;
         margin: 20px;
@@ -77,16 +77,19 @@
 
 aside {
     float: right;
-    width: 465px;
-    text-align: center;
     background: #ebebeb;
-        padding: 10px;
+    text-align: center;
+        width: 195px;
+        height: 165px;
         border: 1px solid #ebebeb;
+        padding: 20px;
+        margin-right: 130px;
 }
+
  footer {
     background: #ebebeb;
      text-align: center;
-        width: 80%;
+        width:80%;
         border: 1px solid #ebebeb;
         padding: 20px;
         margin: 20px;
